@@ -1,16 +1,34 @@
 {
   "files": {
-    "main.css": "/foody-me/static/css/main.073c9b0a.css",
-    "main.js": "/foody-me/static/js/main.adb2c8a7.js",
-    "static/js/787.59eda4d8.chunk.js": "/foody-me/static/js/787.59eda4d8.chunk.js",
-    "static/media/logo.svg": "/foody-me/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/foody-me/static/css/main.dbc1cd51.css",
+    "main.js": "/foody-me/static/js/main.c833feda.js",
+    "static/media/bg.png": "/foody-me/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/foody-me/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/foody-me/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/foody-me/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/foody-me/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/foody-me/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/foody-me/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/foody-me/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/foody-me/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/foody-me/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/foody-me/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/foody-me/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/foody-me/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/foody-me/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/foodyme.png": "/foody-me/static/media/foodyme.b6491022552ccdcc7dc4.png",
+    "static/media/award02.png": "/foody-me/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/foody-me/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/foody-me/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/foody-me/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/foody-me/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "static/media/spoon.svg": "/foody-me/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
     "index.html": "/foody-me/index.html",
-    "main.073c9b0a.css.map": "/foody-me/static/css/main.073c9b0a.css.map",
-    "main.adb2c8a7.js.map": "/foody-me/static/js/main.adb2c8a7.js.map",
-    "787.59eda4d8.chunk.js.map": "/foody-me/static/js/787.59eda4d8.chunk.js.map"
+    "main.dbc1cd51.css.map": "/foody-me/static/css/main.dbc1cd51.css.map",
+    "main.c833feda.js.map": "/foody-me/static/js/main.c833feda.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.adb2c8a7.js"
+    "static/css/main.dbc1cd51.css",
+    "static/js/main.c833feda.js"
   ]
 }
