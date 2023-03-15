@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/foody-me/static/css/main.073c9b0a.css",
+    "main.js": "/foody-me/static/js/main.adb2c8a7.js",
+    "static/js/787.59eda4d8.chunk.js": "/foody-me/static/js/787.59eda4d8.chunk.js",
+    "static/media/logo.svg": "/foody-me/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/foody-me/index.html",
+    "main.073c9b0a.css.map": "/foody-me/static/css/main.073c9b0a.css.map",
+    "main.adb2c8a7.js.map": "/foody-me/static/js/main.adb2c8a7.js.map",
+    "787.59eda4d8.chunk.js.map": "/foody-me/static/js/787.59eda4d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.adb2c8a7.js"
+  ]
+}
