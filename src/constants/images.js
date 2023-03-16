@@ -1,6 +1,6 @@
 import bg from '../assets/bg.png';
 import chef from '../assets/chef.png';
-import G from '../assets/G.png';
+import O from '../assets/O.png';
 import gallery01 from '../assets/gallery01.png';
 import gallery02 from '../assets/gallery02.png';
 import gallery03 from '../assets/gallery03.png';
@@ -25,7 +25,7 @@ import foodyme from '../assets/foodyme.png';
 export default {
   bg,
   chef,
-  G,
+  O,
   gallery01,
   gallery02,
   gallery03,
