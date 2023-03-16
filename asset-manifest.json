@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/foody-me/static/css/main.dbc1cd51.css",
-    "main.js": "/foody-me/static/js/main.c833feda.js",
+    "main.css": "/foody-me/static/css/main.103f86a0.css",
+    "main.js": "/foody-me/static/js/main.405f33c6.js",
+    "static/media/meal.mp4": "/foody-me/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/foody-me/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/foody-me/static/media/welcome.d724eb984456d9c97470.png",
     "static/media/findus.png": "/foody-me/static/media/findus.585c393ccd3671513743.png",
@@ -24,11 +25,11 @@
     "static/media/sign.png": "/foody-me/static/media/sign.9bf0bd90ad4caa17991f.png",
     "static/media/spoon.svg": "/foody-me/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
     "index.html": "/foody-me/index.html",
-    "main.dbc1cd51.css.map": "/foody-me/static/css/main.dbc1cd51.css.map",
-    "main.c833feda.js.map": "/foody-me/static/js/main.c833feda.js.map"
+    "main.103f86a0.css.map": "/foody-me/static/css/main.103f86a0.css.map",
+    "main.405f33c6.js.map": "/foody-me/static/js/main.405f33c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbc1cd51.css",
-    "static/js/main.c833feda.js"
+    "static/css/main.103f86a0.css",
+    "static/js/main.405f33c6.js"
   ]
 }
