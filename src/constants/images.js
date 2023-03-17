@@ -17,7 +17,7 @@ import award01 from '../assets/award01.png';
 import award02 from '../assets/award02.png';
 import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
-import sign from '../assets/sign.png';
+import signature from '../assets/signature.png'
 import quote from '../assets/quote.png';
 import foodyme from '../assets/foodyme.png';
 
@@ -42,7 +42,7 @@ export default {
   award02,
   award03,
   award05,
-  sign,
+  signature,
   quote,
   foodyme,
 };
