@@ -5,7 +5,7 @@ import './AboutUs.css';
 const AboutUs = () => (
   <div className="aboutus app__bg flex__center section__padding">
     <div className="aboutus-overlay flex__center">
-      <img src={images.O} alt="f letter" />
+      <img src={images.O} alt="O letter" />
     </div>
     <div className="aboutus-content flex__center">
       <div className="aboutus-content-about">
