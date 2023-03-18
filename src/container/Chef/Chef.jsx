@@ -14,9 +14,9 @@ const Chef = () => (
       <div className="chef_content">
         <div className="chef_content_quote">
           <img src={images.quote} alt="quote" />
-          <p className="p__opensans"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
+          <p className="p__opensans">  We appreciate you being interested in FoodyMe. </p>
         </div>
-        <p className="p__opensans">Doloribus facere optio fugiat suscipit odit, accusamus mollitia magni maiores possimus aspernatur iusto, quam illo aliquid ipsa voluptates? Blanditiis necessitatibus ullam repudiandae.</p>
+        <p className="p__opensans">FoodyMe was established out of a passion for excellent cuisine, beverages, services, and warm hospitality. We're always looking for people that love to serve and are friendly, loving, athletic, and excellence-minded.</p>
       </div>
       <div className="chef_sign">
         <img src={images.signature} alt="signature" />
