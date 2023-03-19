@@ -58,19 +58,14 @@ const cocktails = [
 
 const awards = [
   {
-    imgUrl: images.award02,
+    imgUrl: images.award01,
     title: 'Highest Attendance',
-    subtitle: 'Mr. Raj Kumar Adani',
+    subtitle: 'Mrs. Radhika Satyamurthy',
   },
   {
-    imgUrl: images.award01,
+    imgUrl: images.award02,
     title: 'Rising Star',
     subtitle: 'Mr. Gopal Das Sharma',
-  },
-  {
-    imgUrl: images.award05,
-    title: 'Sky-scraping Performance',
-    subtitle: 'Mrs. Radhika Satyamurthy',
   },
   {
     imgUrl: images.award03,

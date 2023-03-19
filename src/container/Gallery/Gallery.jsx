@@ -34,8 +34,8 @@ const Gallery = () => {
           ))}
         </div>
         <div className="gallery_images_arrows">
-          <BsArrowLeftShort className="gallery__arrow_icon" onClick={() => scroll('left')} />
-          <BsArrowRightShort className="gallery__arrow_icon" onClick={() => scroll('right')} />
+          <BsArrowLeftShort className="gallery_arrow_icon" onClick={() => scroll('left')} />
+          <BsArrowRightShort className="gallery_arrow_icon" onClick={() => scroll('right')} />
         </div>
       </div>
     </div>
