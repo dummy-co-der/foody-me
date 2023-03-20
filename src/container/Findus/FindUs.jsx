@@ -10,7 +10,7 @@ const FindUs = () => (
         <p className="p__opensans"> House No. ABC, Lane No. XYZ, City, State, Country </p>
         <p className="p__cormorant" style={{color: '#DCCA87', margin: '2rem 0'}}> Opening Hours </p>
         <p className="p__opensans"> Mon - Fri: 10:00 am - 7:00 pm</p>
-        <p className="p__opensans"> Sat - Sun: 10:00 am - 10:00 pm</p>
+        <p className="p__opensans"> Sat - Sun: 10:00 am - 12:00 pm</p>
       </div>
       <button className="custom__button" style={{marginTop: '2rem'}}> Visit Us </button>
     </div>

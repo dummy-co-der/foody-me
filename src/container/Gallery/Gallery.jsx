@@ -21,7 +21,7 @@ const Gallery = () => {
       <div className="gallery_content">
         <SubHeading title="Instagram" />
         <h1 className="headtext__cormorant">Photo Gallery</h1>
-        <p className="p__opensans" style={{ color: '#AAA', marginTop: '2rem' }}> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic ex alias, accusamus accusantium cupiditate distinctio molestiae omnis sint quibusdam aperiam necessitatibus quo qui cum blanditiis illum ipsa provident debitis praesentium! </p>
+        <p className="p__opensans" style={{ color: '#AAA', marginTop: '2rem' }}> Chef Anuj and FoodyMe share a mission: to build a kinder, brave world. Chef Anuj has encouraged his followers to practise kindness in their communities both online and offline through the Born This Way Foundation. We can enable young people to spread more compassion with your assistance. </p>
         <button className="custom__button" type="button">View More</button>
       </div>
       <div className="gallery_images">
