@@ -9,7 +9,7 @@ const Gallery = () => {
   const scrollRef = React.useRef(null);
   const scroll = (direction) => {
     const { current } = scrollRef;
-    if (direction == 'left') {
+    if (direction === 'left') {
       current.scrollLeft -= 300;
     }
     else {
@@ -28,7 +28,7 @@ const Gallery = () => {
         <div className="gallery_images_container" ref={scrollRef}>
           {galleryimages.map((image, index) => (
             <div className="gallery_images_card flex__center" key={`gallery_image-${index + 1}`}>
-              <img src={image} alt="gallery image" />
+              <img src={image} alt="gallery" />
               <BsInstagram className="gallery_image_icon" />
             </div>
           ))}
